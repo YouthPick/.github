@@ -1,5 +1,5 @@
 # YouthPick
-## 청년정책 공공 API 활용 추천 플랫폼 - 새싹 팀 BOP
+## 청년정책 공공 API 활용 추천 플랫폼
 
 | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile96.png" width="150"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile97.png" width="150"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile98.png" width="150"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile99.png" width="150"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile00.png" width="150"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile04.png" width="150"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
