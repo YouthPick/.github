@@ -1,6 +1,20 @@
 # YouthPick
 ## 청년정책 공공 API 활용 추천 플랫폼
 
+YouthPick은 흩어져 있는 청년정책 정보를 한곳에 모아, 사용자의 지역·나이·취업 상태·관심 분야에 맞는 정책을 더 쉽게 찾고 비교할 수 있도록 돕는 맞춤형 추천 플랫폼입니다.
+
+공공 청년정책 API를 기반으로 정책 데이터를 수집하고, 검색·추천·비교·관심 정책 저장·신청 관리 기능을 통해 사용자가 자신에게 필요한 지원 사업을 놓치지 않도록 설계했습니다. 또한 정책 챗봇을 통해 복잡한 조건과 신청 정보를 자연어로 확인할 수 있게 하여, 청년들이 정책 탐색에 쓰는 시간을 줄이고 실제 신청까지 이어질 수 있는 경험을 제공합니다.
+
+### 주요 기능
+
+- **맞춤 정책 추천**: 거주지, 생년, 취업 상태, 학력, 관심 분야를 기반으로 개인화된 정책 추천
+- **정책 검색 및 비교**: 지역·상태·분야·연령 조건으로 정책을 탐색하고 여러 정책을 한눈에 비교
+- **관심 정책 저장**: 필요한 정책을 저장하고 다시 확인할 수 있는 개인화 목록 제공
+- **신청 관리**: 관심 정책의 신청 준비 상태와 체크리스트를 관리
+- **정책 챗봇**: 정책 조건, 신청 방법, 추천 이유를 대화형으로 확인
+
+---
+
 | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile96.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile97.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile98.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile99.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile00.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile04.png" width="110"/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **손정원** | **김서현** | **조우진** | **문영훈** | **한채연** | **조재근** |
