@@ -6,10 +6,10 @@ YouthPick은 흩어져 있는 청년정책 정보를 한곳에 모아, 사용자
 공공 청년정책 API를 기반으로 정책 데이터를 수집하고, 검색·추천·비교·관심 정책 저장·신청 관리 기능을 통해 사용자가 자신에게 필요한 지원 사업을 놓치지 않도록 설계했습니다. 또한 정책 챗봇을 통해 복잡한 조건과 신청 정보를 자연어로 확인할 수 있게 하여, 청년들이 정책 탐색에 쓰는 시간을 줄이고 실제 신청까지 이어질 수 있는 경험을 제공합니다.
 
 | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile96.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile97.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile98.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile99.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile00.png" width="110"/> | <img src="https://github.com/SeSAC-TEAM-BOP/.github/blob/main/profile/images/profile04.png" width="110"/> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **손정원** | **김서현** | **조우진** | **문영훈** | **한채연** | **조재근** |
-| [@sjungwon03](https://github.com/sjungwon03) | [@seohyeon-tomato](https://github.com/seohyeon-tomato) | [@jowoojin030](https://github.com/jowoojin030) | [@myh7754](https://github.com/myh7754) | [@imi21123](https://github.com/imi21123) |  [@canfactor](https://github.com/canfactor) |
-| 간편 로그인, 인증·인가, 관리자 기능, 신청 관리 | 커뮤니티 게시판 | 온보딩, 사용자 프로필 | 정책 검색, 외부 API 연계 | 맞춤 정책 추천, 정책 비교 | 신청 관리 |
+| :---: | :---: | :---: | :---: | :---: |
+| **손정원** | **김서현** | **문영훈** | **한채연** | **조재근** |
+| [@sjungwon03](https://github.com/sjungwon03) | [@seohyeon-tomato](https://github.com/seohyeon-tomato) | [@myh7754](https://github.com/myh7754) | [@imi21123](https://github.com/imi21123) |  [@canfactor](https://github.com/canfactor) |
+| 간편 로그인, 인증·인가, 관리자 기능, 신청 관리 | 커뮤니티 게시판 | 정책 검색, 외부 API 연계 | 맞춤 정책 추천, 정책 비교 | 신청 관리 |
 
 ---
 
