@@ -9,7 +9,8 @@ YouthPick은 흩어져 있는 청년정책 정보를 한곳에 모아, 사용자
 | :---: | :---: | :---: | :---: | :---: |
 | **손정원** | **김서현** | **문영훈** | **한채연** | **조재근** |
 | [@sjungwon03](https://github.com/sjungwon03) | [@seohyeon-tomato](https://github.com/seohyeon-tomato) | [@myh7754](https://github.com/myh7754) | [@imi21123](https://github.com/imi21123) |  [@canfactor](https://github.com/canfactor) |
-| 인증·인가, 어드민, <br/> 온보딩, 커뮤니티(검색, 이미지), <br/> 채팅 | 커뮤니티(게시글, 댓글) | 정책(검색, 외부 API 연계) | 맞춤 정책 추천, <br/> 정책 비교 | 정책 신청 관리 |
+| 팀장(PM) | 팀원 | 백엔드 PL | 프론트엔드 PL | 팀원 |
+| 인증·인가, 어드민, <br/> 온보딩, 커뮤니티(검색, 이미지), <br/> 채팅 | 커뮤니티(게시글, 댓글) | BE 설계, <br/> 정책(검색, 외부 API 연계) | FE 설계, <br/> 맞춤 정책 추천, <br/> 정책 비교 | 정책 신청 관리 |
 
 ---
 
